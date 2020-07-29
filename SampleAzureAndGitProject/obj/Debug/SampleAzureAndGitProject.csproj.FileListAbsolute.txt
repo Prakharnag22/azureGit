@@ -1,0 +1,7 @@
+E:\LTI\training\devops\SampleAzureAndGitSample\SampleAzureAndGitProject\bin\Debug\SampleAzureAndGitProject.exe.config
+E:\LTI\training\devops\SampleAzureAndGitSample\SampleAzureAndGitProject\bin\Debug\SampleAzureAndGitProject.exe
+E:\LTI\training\devops\SampleAzureAndGitSample\SampleAzureAndGitProject\bin\Debug\SampleAzureAndGitProject.pdb
+E:\LTI\training\devops\SampleAzureAndGitSample\SampleAzureAndGitProject\obj\Debug\SampleAzureAndGitProject.csprojAssemblyReference.cache
+E:\LTI\training\devops\SampleAzureAndGitSample\SampleAzureAndGitProject\obj\Debug\SampleAzureAndGitProject.csproj.CoreCompileInputs.cache
+E:\LTI\training\devops\SampleAzureAndGitSample\SampleAzureAndGitProject\obj\Debug\SampleAzureAndGitProject.exe
+E:\LTI\training\devops\SampleAzureAndGitSample\SampleAzureAndGitProject\obj\Debug\SampleAzureAndGitProject.pdb
